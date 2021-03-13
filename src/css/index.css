@@ -1,5 +1,4 @@
 
-
 header{
     background-color: #4C5B84;
     display: flex;
@@ -50,15 +49,10 @@ header{
 }
 
 .buttons{
-    /* margin-top: 38px;
-    margin-left: 150px; */
-    /* justify-content: center; */
+    margin-top: 38px;
+    margin-left: 150px;
 
 }
 .buttons>a{
     margin-right: 70px;
-}
-
-.wrapper{
-    display: inline-block;
 }
