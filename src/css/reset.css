@@ -1,6 +1,4 @@
 body, h1, h2, h3{
     margin: 0;
-    /* font-family: 'Fira Code', monospace; */
-    
-    font-family: "Press Start 2P", monospace;
+    font-family: "Press Start 2P",'Fira Code', monospace;
 }
