@@ -1,5 +1,6 @@
 
 a{
+    font-family: 'Fira Code', monospace;
     display: inline-flex;
     align-items: center;
     color: whitesmoke;
@@ -9,7 +10,6 @@ a{
 
     margin-right: 30px;
     line-height: 30px;
-
     
     transition: transform 200ms linear;
 }
@@ -23,4 +23,5 @@ a::before{
 a:hover{
     color: #F25A70;
     transform: scale(1.08);
+    cursor: pointer;
 }
