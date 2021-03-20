@@ -27,6 +27,7 @@ h1, h2{
 }
 .wrapper-prejects{
     display: flex;
+    /* justify-content: center; */
     justify-content: space-evenly;
     
 }
