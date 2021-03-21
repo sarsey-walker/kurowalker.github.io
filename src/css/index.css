@@ -23,38 +23,6 @@ a:hover{
     cursor: pointer;
 }
 
-.box-skills{
-    color: whitesmoke;
-}
-.project{
-    width: 280px;
-    height: 280px;
-    box-shadow: 10px 10px 0 #ffffff;
-    margin-bottom: 90px;
-}
-.wrapper-prejects{
-    display: flex;
-    /* justify-content: center; */
-    justify-content: space-evenly;
-    
-}
-.project img{
-    /* display: block; */
-    /* margin: 0 auto 0 auto; */
-    padding: 10px;
-    width: 260px;
-    height: 260px;
-}
-.azul{
-    background-color: #0a1a31;
-}
-.roxo{
-    background-color: #7C5E99;
-}
-.cinza{
-    background-color: #444444;
-    
-}
 footer{
     text-align: center;
     padding: 20px;
