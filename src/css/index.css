@@ -26,20 +26,6 @@ a:hover{
 .box-skills{
     color: whitesmoke;
 }
-.buttons{
-    text-align: center;
-    line-height: 180px;
-
-}
-.buttons>a{
-    margin-right: 70px;
-    
-}
-
-.wrapper{
-    height: 680px;
-    width: 800px;
-}
 .project{
     width: 280px;
     height: 280px;
@@ -75,29 +61,3 @@ footer{
     background-color: #494949;
     color: #fff;
 }
-/* dd img{
-    float: left;
-} */
-/* 
-.box-skills{
-    
-    border-top: 10px solid black;
-    height: 680px;
-    border-bottom: 10px solid rgb(255, 208, 0);
-    position: relative;
-}
-
-
-.skill{
-    
-    padding: 20px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.skill h3{
-    display: inline;
-    vertical-align: text-top;
-} */

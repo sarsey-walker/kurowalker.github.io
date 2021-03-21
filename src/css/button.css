@@ -9,3 +9,11 @@
 .button:hover{
     color: #3a4042;
 }
+
+.buttons{
+    text-align: center;
+    line-height: 180px;
+}
+.buttons>a{
+    margin-right: 70px;
+}
