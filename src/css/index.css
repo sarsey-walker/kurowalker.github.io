@@ -1,6 +1,10 @@
 h1, h2{
     color: #fff;
     font-family: "Press Start 2P", monospace;
+    text-align: center;  
+    font-size: 40px;
+    margin-bottom: 60px;
+
 }
 
 a{
@@ -28,4 +32,7 @@ footer{
     padding: 20px;
     background-color: #494949;
     color: #fff;
+}
+.blue{
+    color: #2c99ff;
 }
